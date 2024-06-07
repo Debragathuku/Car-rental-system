@@ -6,7 +6,7 @@ This Car Rental System is designed using Object-Oriented Programming principles.
 ## Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/debragathukue/CarRentalSystem.git
+   git clone https://github.com/debragathuku/CarRentalSystem.git
    cd CarRentalSystem
    ```
 
